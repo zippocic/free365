@@ -4,6 +4,7 @@
 古有大椿树，西北生，瘴活之！
 ### TEST!
 
-[123](HTTPS:BLOG.ISSCC.TOP)
+[首页](HTTPS:BLOG.ISSCC.TOP/free365)
 
-[百度](HTTPS:BAIDU.COM)
+友情链接：[百度](HTTPS:baidu.com)
+友情链接：[谷歌](HTTPS:google.com)
